@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyModules</string>
+    <string name="heading">MODULES</string>
+    <string name="subheading">WHAT AM I STUDYING CURRENTLY?</string>
+    <string name="module1">C203 - Web AppIn Development in PHP </string>
+    <string name="module2">C206 - Software Development Process </string>
+    <string name="module3">C218 - UI/UX Design for Apps</string>
+    <string name="module4">C235 - IT Security and Management </string>
+    <string name="module5">C346 - Mobile App Development</string>
+</resources>
